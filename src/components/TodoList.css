@@ -1,0 +1,35 @@
+.container {
+	width: 95%;
+	display: flex;
+	margin-top: 10px;
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+.TodoList {
+	border-radius: 5px;
+	margin-top: 15px;
+	display: flex;
+	flex-direction: column;
+	width: 47.5%;
+	padding: 15px;
+	background-color: rgb(50, 195, 205);
+}
+
+.remove {
+	background-color: rgb(235, 103, 80);
+}
+
+.TodoList-heading {
+	font-size: 30px;
+	text-align: center;
+	color: white;
+}
+
+.drag-active {
+	background-color: rgb(10, 156, 167);
+}
+
+.drag-complete {
+	background-color: rgb(228, 56, 26);
+}
