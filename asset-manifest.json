@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Todo-DragAndDrop/static/css/main.8a1f0f8d.css",
+    "main.js": "/Todo-DragAndDrop/static/js/main.c7e1cd4a.js",
+    "index.html": "/Todo-DragAndDrop/index.html",
+    "main.8a1f0f8d.css.map": "/Todo-DragAndDrop/static/css/main.8a1f0f8d.css.map",
+    "main.c7e1cd4a.js.map": "/Todo-DragAndDrop/static/js/main.c7e1cd4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a1f0f8d.css",
+    "static/js/main.c7e1cd4a.js"
+  ]
+}
