@@ -1,5 +1,6 @@
 This Todo widget was made following Roadside Coder's 'React & TypeScript - Course for Beginners' course found on YouTube https://www.youtube.com/watch?v=FJDVKeh7RJI 
 
+https://create-react-app.dev/docs/deployment/#github-pages
 
 # Getting Started with Create React App
 
